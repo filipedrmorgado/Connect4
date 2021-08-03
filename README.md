@@ -1,5 +1,5 @@
 # Connect4
-**Project carried out for Advanced Programming class at ISEC. Project carried out in Java focusing on the implementation of the Connect4 game.**
+**Project carried out for Advanced Programming class at ISEC. Project made in Java focusing on the implementation of the Connect4 game.**
 
 This project was mainly developed with the main focus being a construction of a state machine with the respective diagram, the use of the Memento
 Design Pattern, the use of Oriented Object Programming, read and write files.
